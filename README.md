@@ -1,4 +1,4 @@
-# Graphical-Data-Analysis-for-European-Bank
+# Graphical-Data-Analysis
 
 I am very interested in the world of data science. I decided to do this project to help me learn and understand basic data science principles. I intend to use this learning experience to catapult me towards future, more complex, data analysis.
 
