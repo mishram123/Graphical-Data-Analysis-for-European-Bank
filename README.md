@@ -1,4 +1,4 @@
-# Graphical-Data-Analysis
+# Python Based Graphical Data Analysis Demo 
 
 I am very interested in the world of data science. I decided to do this project to help me learn and understand basic data science principles. I intend to use this learning experience to catapult me towards future, more complex, data analysis.
 
